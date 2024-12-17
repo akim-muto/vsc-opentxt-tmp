@@ -30,4 +30,4 @@ Platform:windows
 ## Thanks
 
 We have appropriated this source code.Thanks!
-<https://github.com/microsoft/vscode-extension-samples/tree/main/webview-sample>
+* <https://github.com/microsoft/vscode-extension-samples/tree/main/webview-sample>
