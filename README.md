@@ -22,10 +22,10 @@ Platform:windows
 
 ## Related Information
 
-<https://github.com/microsoft/vscode-discussions/discussions/1242>
-<https://github.com/microsoft/vscode/issues/221010>
-<https://github.com/microsoft/vscode/wiki/File-Watcher-Issues>
-<https://github.com/microsoft/vscode/wiki/File-Watcher-Internals>
+* <https://github.com/microsoft/vscode-discussions/discussions/1242>
+* <https://github.com/microsoft/vscode/issues/221010>
+* <https://github.com/microsoft/vscode/wiki/File-Watcher-Issues>
+* <https://github.com/microsoft/vscode/wiki/File-Watcher-Internals>
 
 ## Thanks
 
