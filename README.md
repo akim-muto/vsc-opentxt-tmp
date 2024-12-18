@@ -16,7 +16,7 @@ Platform:windows
 3. enter `F5` key `Run Extension`.
 4. enter `F1` key `open command palette`.
 5. run command `testVsc.start`
-6. chane and save `media/test.txt`
+6. change and save `media/test.txt`
 7. repeat 6
 8. You can confirm that the change is delayed.
 
